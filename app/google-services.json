@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813307290619",
+    "project_id": "pr20angelika",
+    "storage_bucket": "pr20angelika.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813307290619:android:c4690754637a4404a6a15e",
+        "android_client_info": {
+          "package_name": "com.example.pr_20_angelika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBod-ek8rEevh3Bro5eQ2mOyoLJBfBXo3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
